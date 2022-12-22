@@ -1,0 +1,51 @@
+.st-font{
+    font-family: "Satisfy";
+}
+html,
+body{
+    height: 100%;  
+    margin-left: 20%;
+    background-color: bisque;
+}
+.container-fluid{
+    min-height: 100%;
+}
+.i-color{
+    color:chartreuse;
+}
+.ss-color{
+    color:whitesmoke;
+}
+a.nav-link:hover{
+    color:black;
+    background-color: #e9cd79;
+}
+a.nav-link.active{
+    color:black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
+form{
+    background-color: gray;
+    width: 50%;
+    align-items: center;
+    border-radius: 3%;
+    border-style: solid double; 
+}
+h3{
+    background-color: gray;
+    width: 50%;
+    align-items: center;
+    border-radius: 5%;
+    border-style: solid double; 
+}
+p{
+    background-color: black;
+    color: white;
+    width: 50%;
+    border-style: solid double; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+
